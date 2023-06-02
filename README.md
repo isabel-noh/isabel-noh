@@ -1,4 +1,12 @@
-### Hi there 👋
+Hi there 👋 I'm Frontend Developer with ReactJS, VueJS.  
+Currently studied in Samsung SW Academy for Youth. 
+
+<a href="https://velog.io/@isabel_noh"><img src="https://img.shields.io/badge/blog-09D3AC?style=flat-square&logo=velog&logoColor=white"/></a>
+<a href="mailto:nohhyunjeong93@gmail.com"><img src="https://img.shields.io/badge/nohhyunjeong93@gmail.com-FF4154?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/hyun-jeong-n-59517b21a/"><img src="https://img.shields.io/badge/Hyeonjung Noh-0b66c2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://maroon-margin-1eb.notion.site/Hyeonjung-Isabel-Noh-3446acc0888e48d8acfd669ca9fc0ddd"><img src="https://img.shields.io/badge/portfolio-000000?style=flat-square&logo=notion&logoColor=white"/></a>
+
+## Language & Framework
 
 <!--
 **isabel-noh/isabel-noh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
