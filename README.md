@@ -1,4 +1,4 @@
-Hi there 👋 I'm <strong>Frontend Developer</strong> with ReactJS, VueJS.  
+Hi there 👋 I'm <strong>Frontend Developer</strong> with experience in ReactJS, VueJS.  
 Currently studied in Samsung SW Academy for Youth. 
 
 <a href="https://velog.io/@isabel_noh"><img src="https://img.shields.io/badge/blog-09D3AC?style=flat-square&logo=velog&logoColor=white"/></a>
