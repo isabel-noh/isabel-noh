@@ -1,12 +1,16 @@
+#### Hi there 👋
 <a href="https://velog.io/@isabel_noh"><img src="https://img.shields.io/badge/blog-EA4AAA?style=flat-square&logo=githubsponsors&logoColor=white"/></a>
 <a href="mailto:nohhyunjeong93@gmail.com"><img src="https://img.shields.io/badge/nohhyunjeong93@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/hyun-jeong-n-59517b21a/"><img src="https://img.shields.io/badge/Hyeonjung Noh-0b66c2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="https://maroon-margin-1eb.notion.site/Hyeonjung-Isabel-Noh-3446acc0888e48d8acfd669ca9fc0ddd"><img src="https://img.shields.io/badge/portfolio-000000?style=flat-square&logo=notion&logoColor=white"/></a>
 
-Hi there 👋 I'm <strong>Frontend Developer</strong> with experience in React and Vue.  
-Currently studied in Samsung SW Academy for Youth.
+I'm <strong>Frontend Developer</strong> with experience in React and Vue.  
 
-## 👩‍💻Skills
+I love question marks`?` and exclamation points`!`  
+I enjoy exploring and inquiring 👩‍💻when faced with problems or challenges.    
+I find great satisfaction 😙in successfully resolving these issues and uncovering new insights🤩.  
+ 
+## 💻Skills
 
 ### Language & Framework
 
