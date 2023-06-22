@@ -6,7 +6,7 @@
 
 I'm <strong>Frontend Developer</strong> with experience in React and Vue.  
 
-I love question marks`?` and exclamation points`!`  
+I love exclamations after the questions.  
 I enjoy exploring and inquiring 👩‍💻when faced with problems or challenges.    
 I find great satisfaction 😙in successfully resolving these issues and uncovering new insights🤩.  
  
